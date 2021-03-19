@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604831155 source:e:\courses\iti - cloud platform development track\courses\04 introduction to c programming\labs\lab05\lab05 - shehab el-deen alalkamy\task01 - swapping values\main.c
+	<stdio.h>
+	<stdlib.h>
+

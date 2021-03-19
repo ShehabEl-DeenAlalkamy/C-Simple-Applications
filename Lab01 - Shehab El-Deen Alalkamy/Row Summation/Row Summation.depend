@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604324376 source:e:\courses\iti - cloud platform development track\courses\04 introduction to c programming\labs\lab01\lab01 - shehab el-deen alalkamy\row summation\main.c
+	<stdio.h>
+	<stdlib.h>
+

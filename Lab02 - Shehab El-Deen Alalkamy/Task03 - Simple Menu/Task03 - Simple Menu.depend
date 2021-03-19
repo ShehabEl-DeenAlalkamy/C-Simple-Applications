@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604245393 source:e:\courses\iti - cloud platform development track\courses\04 introduction to c programming\labs\lab02\lab02 - shehab el-deen alalkamy\task03 - simple menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

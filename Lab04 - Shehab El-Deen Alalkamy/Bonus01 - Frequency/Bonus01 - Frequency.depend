@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604419926 source:e:\courses\iti - cloud platform development track\courses\04 introduction to c programming\labs\lab04\lab04 - shehab el-deen alalkamy\bonus01 - frequency\main.c
+	<stdio.h>
+	<stdlib.h>
+

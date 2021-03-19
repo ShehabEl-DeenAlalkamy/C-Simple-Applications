@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604913864 source:e:\courses\iti - cloud platform development track\courses\04 introduction to c programming\labs\lab07\lab07 - shehab el-deen alalkamy\task02 - line editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+

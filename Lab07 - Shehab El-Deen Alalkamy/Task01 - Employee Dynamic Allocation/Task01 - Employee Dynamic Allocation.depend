@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604897020 source:e:\courses\iti - cloud platform development track\courses\04 introduction to c programming\labs\lab07\lab07 - shehab el-deen alalkamy\task01 - employee dynamic allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
